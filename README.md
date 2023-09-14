@@ -23,4 +23,3 @@ scripts,text file)
 
 • The queries performed on the database attached as script and SQL_text.
 
-• Final project report.
